@@ -1,6 +1,5 @@
 #ifndef PLAYER_H
 #define PLAYER_H
-
 typedef struct {
     int x, y, session_id;
     char tag[4], *nickname;
